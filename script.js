@@ -1,5 +1,3 @@
-alert("Script working!")
-
 const genbutton = document.getElementById("generate");
 const outputdiv = document.getElementById("output");
 
